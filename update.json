@@ -1,15 +1,15 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.4",
   "notes": "See the assets for download links.",
-  "pub_date": "2026-03-29T03:40:14.632Z",
+  "pub_date": "2026-03-29T04:55:27.251Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaWtrTHUyM1o5T1ZsL1dkT3hEUGhxVUxobVdsSmgrV0NTQU5KQzBMQXJSUmp4aEU3cUw5R1h2cUErMm5DaE1iMmVneTBha2VyUjN0M1VWa2hsb0xXVjNLY1h0bUhrdHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzU1NjA4CWZpbGU6QWxwaGFEQi5hcHAudGFyLmd6Ci9WSXBQWFJFZ2RybUY4d0hHSFlWZWxwS1hDVnY5amVhbWR5R0JueXZPcDNPSFFvajBjdC9PTE9VMDFNVlRVOTdpU2lyOFFJZWFyY0hEWDAxN25TRkRBPT0K",
-      "url": "https://github.com/sidmohan0/alphadb-release/releases/download/v0.5.3/AlphaDB_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaWtrTHUyM1o5T1htam5EVVZkcHkrSE1Jd1FBUzRuQkQyVFJIdTFHNFdtbmlCZ01nUXVENmZPd3lZOEpPb25XaUJUNXIxUUN0Nnd2a1VaTk16SXI2NkZsYjROYXlvdXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzYwMTIwCWZpbGU6QWxwaGFEQi5hcHAudGFyLmd6CmVLdWV0bi83QngyVWQ1TlozTTBRTmd3ZitzN1NwRWRGbzJJN25OOG9NYzdwUTFPOTZBeUt4OXVROUo0SDV0bkh0V05jZlNhTjNkbjVSSFNkTXNBb0N3PT0K",
+      "url": "https://github.com/sidmohan0/alphadb-release/releases/download/v0.5.4/AlphaDB_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaWtrTHUyM1o5T1ZsL1dkT3hEUGhxVUxobVdsSmgrV0NTQU5KQzBMQXJSUmp4aEU3cUw5R1h2cUErMm5DaE1iMmVneTBha2VyUjN0M1VWa2hsb0xXVjNLY1h0bUhrdHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzU1NjA4CWZpbGU6QWxwaGFEQi5hcHAudGFyLmd6Ci9WSXBQWFJFZ2RybUY4d0hHSFlWZWxwS1hDVnY5amVhbWR5R0JueXZPcDNPSFFvajBjdC9PTE9VMDFNVlRVOTdpU2lyOFFJZWFyY0hEWDAxN25TRkRBPT0K",
-      "url": "https://github.com/sidmohan0/alphadb-release/releases/download/v0.5.3/AlphaDB_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaWtrTHUyM1o5T1htam5EVVZkcHkrSE1Jd1FBUzRuQkQyVFJIdTFHNFdtbmlCZ01nUXVENmZPd3lZOEpPb25XaUJUNXIxUUN0Nnd2a1VaTk16SXI2NkZsYjROYXlvdXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzYwMTIwCWZpbGU6QWxwaGFEQi5hcHAudGFyLmd6CmVLdWV0bi83QngyVWQ1TlozTTBRTmd3ZitzN1NwRWRGbzJJN25OOG9NYzdwUTFPOTZBeUt4OXVROUo0SDV0bkh0V05jZlNhTjNkbjVSSFNkTXNBb0N3PT0K",
+      "url": "https://github.com/sidmohan0/alphadb-release/releases/download/v0.5.4/AlphaDB_aarch64.app.tar.gz"
     }
   }
 }
